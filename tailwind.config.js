@@ -10,7 +10,9 @@ export default {
     },
     extend: {
       colors: {
-        primary: '',
+        primary: '#E2EAFC',
+        secondary: '#0A2472',
+        btn: '#0E6BA8',
       },
       fontFamily: {
         montserrat: ['Montserrat', 'sans-serif'],
